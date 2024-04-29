@@ -1,0 +1,41 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: calc(100%/3 - 40px);
+    /* height: 100px; */
+    background-color: black;
+    color: white;
+    float: left;
+    margin: 20px;
+    box-shadow: 3px 3px lightgrey;
+}
+
+.card img {
+    float: left;
+    max-width: 25%;
+   
+}
+
+.card-text {
+    float: left;
+    margin: 2%;
+    line-height: 150%;
+}
+
+.small-page {
+    width: 80% ;
+}
+
+.employee-name {
+    font-weight: 900;
+}
+
+.employee-email {
+    color: rgb(62, 167, 214);
+    text-decoration: none;
+}
+
