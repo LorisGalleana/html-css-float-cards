@@ -5,7 +5,7 @@
 }
 
 .container {
-    max-width: calc(100%/3 - 40px);
+    max-width: calc(100%/3 - 60px);
     /* height: 100px; */
     background-color: black;
     color: white;
@@ -28,6 +28,8 @@
 
 .small-page {
     width: 80% ;
+    height: aut;
+    background-color: red;
 }
 
 .employee-name {
