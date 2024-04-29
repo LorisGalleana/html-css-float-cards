@@ -2,35 +2,44 @@
     margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Fredoka", sans-serif;
+}
+.small-page {
+    width: 70% ;
+}
+header {
+    text-align: center;
+    margin: 20px;
 }
 
+h1 {
+    color: rgb(229, 49, 112);
+    margin: 20px;
+    
+}
 .container {
-    max-width: calc(100%/3 - 60px);
-    /* height: 100px; */
+    max-width: calc(100%/3 - 40px);
     background-color: black;
     color: white;
     float: left;
     margin: 20px;
-    box-shadow: 3px 3px lightgrey;
+    box-shadow: 1px 1px 5px 3px grey;
+    
 }
 
 .card img {
     float: left;
-    max-width: 25%;
+    max-width: 30%;
    
 }
 
 .card-text {
     float: left;
-    margin: 2%;
+    padding: 3%;
     line-height: 150%;
 }
 
-.small-page {
-    width: 80% ;
-    height: aut;
-    background-color: red;
-}
+
 
 .employee-name {
     font-weight: 900;
