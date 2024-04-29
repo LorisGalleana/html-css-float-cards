@@ -7,15 +7,16 @@
 .small-page {
     width: 70% ;
 }
-header {
-    text-align: center;
-    margin: 20px;
-}
 
 h1 {
     color: rgb(229, 49, 112);
+    text-align: center;
+    margin: 20px;    
+}
+
+.subtext {
+    text-align: center;
     margin: 20px;
-    
 }
 .container {
     max-width: calc(100%/3 - 40px);
