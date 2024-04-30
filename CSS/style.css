@@ -7,13 +7,11 @@
 .small-page {
     width: 70% ;
 }
-
 h1 {
     color: rgb(229, 49, 112);
     text-align: center;
     margin: 20px;    
 }
-
 .subtext {
     text-align: center;
     margin: 20px;
@@ -28,29 +26,20 @@ h1 {
     float: left;
     margin: 20px;
     box-shadow: 1px 1px 5px 3px grey;
-    
 }
-
 .card img {
     float: left;
     max-width: 30%;
-   
 }
-
 .card-text {
     float: left;
     padding: 3%;
     line-height: 150%;
 }
-
-
-
 .employee-name {
     font-weight: 900;
 }
-
 .employee-email {
     color: rgb(62, 167, 214);
     text-decoration: none;
 }
-
